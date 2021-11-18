@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-| ![empty](/home/nix/dots/screenshots/Screenshot_20211116_105240.png) | ![Populated](/home/nix/dots/screenshots/Screenshot_20211116_105316.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Empty                                                        | Populated                                                    |
+| ![Empty](./screenshots/Screenshot_20211116_105240.png) | ![Populated](./screenshots/Screenshot_20211116_105316.png) |
+| ------------------------------------------------------ | ---------------------------------------------------------- |
+| Empty                                                  | Populated                                                  |
 
 
 
